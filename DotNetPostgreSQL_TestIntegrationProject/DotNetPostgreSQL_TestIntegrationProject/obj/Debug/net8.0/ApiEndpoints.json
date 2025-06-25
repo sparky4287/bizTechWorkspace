@@ -1,0 +1,438 @@
+[
+  {
+    "ContainingType": "DotNetPostgreSQL_TestIntegrationProject.Controllers.ExperienceLevelsController",
+    "Method": "GetExperienceLevels",
+    "RelativePath": "api/ExperienceLevels",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[DotNetPostgreSQL_TestIntegrationProject.Models.ExperienceLevel, DotNetPostgreSQL_TestIntegrationProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DotNetPostgreSQL_TestIntegrationProject.Controllers.ExperienceLevelsController",
+    "Method": "PostExperienceLevel",
+    "RelativePath": "api/ExperienceLevels",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "experienceLevel",
+        "Type": "DotNetPostgreSQL_TestIntegrationProject.Models.ExperienceLevel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "DotNetPostgreSQL_TestIntegrationProject.Models.ExperienceLevel",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DotNetPostgreSQL_TestIntegrationProject.Controllers.ExperienceLevelsController",
+    "Method": "GetExperienceLevel",
+    "RelativePath": "api/ExperienceLevels/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "DotNetPostgreSQL_TestIntegrationProject.Models.ExperienceLevel",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DotNetPostgreSQL_TestIntegrationProject.Controllers.ExperienceLevelsController",
+    "Method": "PutExperienceLevel",
+    "RelativePath": "api/ExperienceLevels/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "experienceLevel",
+        "Type": "DotNetPostgreSQL_TestIntegrationProject.Models.ExperienceLevel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DotNetPostgreSQL_TestIntegrationProject.Controllers.ExperienceLevelsController",
+    "Method": "DeleteExperienceLevel",
+    "RelativePath": "api/ExperienceLevels/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DotNetPostgreSQL_TestIntegrationProject.Controllers.MechsController",
+    "Method": "GetMechs",
+    "RelativePath": "api/Mechs",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[DotNetPostgreSQL_TestIntegrationProject.Models.Mech, DotNetPostgreSQL_TestIntegrationProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DotNetPostgreSQL_TestIntegrationProject.Controllers.MechsController",
+    "Method": "PostMech",
+    "RelativePath": "api/Mechs",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "mech",
+        "Type": "DotNetPostgreSQL_TestIntegrationProject.Models.Mech",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "DotNetPostgreSQL_TestIntegrationProject.Models.Mech",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DotNetPostgreSQL_TestIntegrationProject.Controllers.MechsController",
+    "Method": "GetMech",
+    "RelativePath": "api/Mechs/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "DotNetPostgreSQL_TestIntegrationProject.Models.Mech",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DotNetPostgreSQL_TestIntegrationProject.Controllers.MechsController",
+    "Method": "PutMech",
+    "RelativePath": "api/Mechs/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "mech",
+        "Type": "DotNetPostgreSQL_TestIntegrationProject.Models.Mech",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DotNetPostgreSQL_TestIntegrationProject.Controllers.MechsController",
+    "Method": "DeleteMech",
+    "RelativePath": "api/Mechs/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DotNetPostgreSQL_TestIntegrationProject.Controllers.MechwarriorsController",
+    "Method": "GetMechwarriors",
+    "RelativePath": "api/Mechwarriors",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[DotNetPostgreSQL_TestIntegrationProject.Models.Mechwarrior, DotNetPostgreSQL_TestIntegrationProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DotNetPostgreSQL_TestIntegrationProject.Controllers.MechwarriorsController",
+    "Method": "PostMechwarrior",
+    "RelativePath": "api/Mechwarriors",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "mechwarrior",
+        "Type": "DotNetPostgreSQL_TestIntegrationProject.Models.Mechwarrior",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "DotNetPostgreSQL_TestIntegrationProject.Models.Mechwarrior",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DotNetPostgreSQL_TestIntegrationProject.Controllers.MechwarriorsController",
+    "Method": "GetMechwarrior",
+    "RelativePath": "api/Mechwarriors/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "DotNetPostgreSQL_TestIntegrationProject.Models.Mechwarrior",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DotNetPostgreSQL_TestIntegrationProject.Controllers.MechwarriorsController",
+    "Method": "PutMechwarrior",
+    "RelativePath": "api/Mechwarriors/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "mechwarrior",
+        "Type": "DotNetPostgreSQL_TestIntegrationProject.Models.Mechwarrior",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DotNetPostgreSQL_TestIntegrationProject.Controllers.MechwarriorsController",
+    "Method": "DeleteMechwarrior",
+    "RelativePath": "api/Mechwarriors/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DotNetPostgreSQL_TestIntegrationProject.Controllers.RanksController",
+    "Method": "GetRanks",
+    "RelativePath": "api/Ranks",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[DotNetPostgreSQL_TestIntegrationProject.Models.Rank, DotNetPostgreSQL_TestIntegrationProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DotNetPostgreSQL_TestIntegrationProject.Controllers.RanksController",
+    "Method": "PostRank",
+    "RelativePath": "api/Ranks",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "rank",
+        "Type": "DotNetPostgreSQL_TestIntegrationProject.Models.Rank",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "DotNetPostgreSQL_TestIntegrationProject.Models.Rank",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DotNetPostgreSQL_TestIntegrationProject.Controllers.RanksController",
+    "Method": "GetRank",
+    "RelativePath": "api/Ranks/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "DotNetPostgreSQL_TestIntegrationProject.Models.Rank",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DotNetPostgreSQL_TestIntegrationProject.Controllers.RanksController",
+    "Method": "PutRank",
+    "RelativePath": "api/Ranks/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "rank",
+        "Type": "DotNetPostgreSQL_TestIntegrationProject.Models.Rank",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DotNetPostgreSQL_TestIntegrationProject.Controllers.RanksController",
+    "Method": "DeleteRank",
+    "RelativePath": "api/Ranks/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

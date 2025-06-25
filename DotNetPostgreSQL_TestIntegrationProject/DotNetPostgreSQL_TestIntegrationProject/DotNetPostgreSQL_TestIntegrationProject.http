@@ -1,0 +1,6 @@
+@DotNetPostgreSQL_TestIntegrationProject_HostAddress = http://localhost:5246
+
+GET {{DotNetPostgreSQL_TestIntegrationProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

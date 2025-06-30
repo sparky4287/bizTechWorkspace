@@ -8,10 +8,10 @@ body {
 }
 
 #headerImage {
-    width: 100%;               /* full width of parent/screen */
-    aspect-ratio: 59 / 13;      /* maintain aspect ratio (you can change this) */
+    width: 100%;
+    aspect-ratio: 59 / 13;
     background-image: url("img/stethoscope-1584223.png");
-    background-size: cover;    /* scale and crop */
+    background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
@@ -115,24 +115,28 @@ body {
     text-transform: uppercase;
 }
 
-.modal-content {
+.modal-content,
+.modal-content2 {
     background: #1E222A 0% 0% no-repeat padding-box;
     box-shadow: 0px 6px 10px #5A5A5A;
     padding-bottom: 5rem !important;
 }
 
-.modal-header {
+.modal-header,
+.modal-header2 {
     border-bottom: none;
 }
 
-.modal-title {
+.modal-title,
+.modal-title2 {
     text-align: center;
     font: normal normal 300 45px/54px proxima-nova;
     letter-spacing: 0px;
     color: #FFFFFF;
 }
 
-.secondary-modal-title {
+.secondary-modal-title,
+.secondary-modal-title2 {
     text-align: center;
     font: normal normal normal 20px/24px proxima-nova;
     letter-spacing: 0px;
@@ -144,12 +148,14 @@ body {
     color: #4EC9D2 !important;
 }
 
-.form-div {
+.form-div,
+.form-div2 {
     margin-left: 9rem !important;
     margin-right: 9rem !important;
 }
 
-.form-input {
+.form-input,
+.form-input2 {
     margin-top: 2rem !important;
     margin-bottom: 2rem !important;
 }
@@ -160,14 +166,16 @@ body {
     text-transform: uppercase;
 }
 
-.modal-footer {
+.modal-footer,
+.modal-footer2 {
     border-top: none;
     padding-left: 10rem !important;
     padding-right: 10rem !important;
     padding-top: 0 !important;
 }
 
-.subscribe-button {
+.subscribe-button,
+.submit-button {
     width: 100%;
     border: 2px solid #FFFFFF;
     border-radius: 10px;
@@ -180,11 +188,31 @@ body {
     padding-bottom: 1rem !important;
 }
 
-.modal-body {
+.modal-body,
+.modal-body2 {
     padding-bottom: 0 !important;
 }
 
-/* Mobile Styles */
+#contactUsModal {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color:rgba(0,0,0,0.5);
+    padding: 5% 30%;
+}
+
+.contact-us-modal-body {
+    background: white;
+    margin: 10% auto;
+    padding: 20px;
+    width: 300px;
+    position: relative;
+}
+
+/* Mobile Style */
 @media (max-width: 768px) {
     #headerImage {
         aspect-ratio: 2 / 1;

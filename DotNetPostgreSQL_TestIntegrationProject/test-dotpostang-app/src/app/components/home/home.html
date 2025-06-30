@@ -1,0 +1,11 @@
+<h1 class="home-title">Welcome to the Mech Test App!</h1>
+
+<h3>Your current selected Mech is: <b><a routerLink='/mech/{{currentMech.id}}'>{{ currentMech.name }}</a></b></h3>
+<div>
+    <h5>Description: </h5>
+    <p>{{ currentMech.description }}</p>
+</div>
+<div>
+    <h5>Current Pilot: </h5>
+    <p><a routerLink='/mechwarrior/{{currentMech.mechwarriorId}}'>{{ currentMech.mechwarriorId }}</a></p>
+</div>

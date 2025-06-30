@@ -1,0 +1,9 @@
+<h1>Current Selected Mech: {{ selectedMech.name }}</h1>
+<br>
+<select>
+  <option *ngFor="let mech of selectableMechs" value="{{ mech.id }}">
+    {{ mech.name }}
+  </option>
+</select>
+
+<p>Selected Option: {{ selectedMech.name }}</p>

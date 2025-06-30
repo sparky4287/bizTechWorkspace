@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using DotNetPostgreSQL_TestIntegrationProject.Models;
+using Microsoft.AspNetCore.Cors;
 
 namespace DotNetPostgreSQL_TestIntegrationProject.Controllers
 {

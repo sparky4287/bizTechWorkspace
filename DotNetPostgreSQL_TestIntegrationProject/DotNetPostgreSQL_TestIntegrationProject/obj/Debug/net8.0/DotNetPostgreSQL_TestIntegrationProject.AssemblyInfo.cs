@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DotNetPostgreSQL_TestIntegrationProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b51f979aa7c828d6f46e6279362b65f1257c23a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bea6a9362a267d36c21185099661e2135c6b5ee1")]
 [assembly: System.Reflection.AssemblyProductAttribute("DotNetPostgreSQL_TestIntegrationProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DotNetPostgreSQL_TestIntegrationProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

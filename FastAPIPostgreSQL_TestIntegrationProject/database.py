@@ -4,7 +4,7 @@ from sqlalchemy.orm import sessionmaker
 
 # This is the connection string to your local PostgreSQL database.
 # Replace `username`, `password`, and `mechs_db` with your actual DB credentials and database name.
-SQLALCHEMY_DATABASE_URL = "postgresql://username:password@localhost:5432/mechs_db"
+SQLALCHEMY_DATABASE_URL = "postgresql://postgres:!xtlmoidq34@localhost:5432/MechwarriorTest"
 
 # Create a SQLAlchemy engine that connects to the PostgreSQL database.
 engine = create_engine(SQLALCHEMY_DATABASE_URL)

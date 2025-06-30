@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "C:\\Users\\Jon\\OneDrive\\Desktop\\bizTechWorkspace\\DotNetPostgreSQL_TestIntegrationProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2751E5C9-B606-4181-9698-2DBEB134577C}|DotNetPostgreSQL_TestIntegrationProject\\DotNetPostgreSQL_TestIntegrationProject.csproj|c:\\users\\jon\\onedrive\\desktop\\biztechworkspace\\dotnetpostgresql_testintegrationproject\\dotnetpostgresql_testintegrationproject\\models\\mech.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2751E5C9-B606-4181-9698-2DBEB134577C}|DotNetPostgreSQL_TestIntegrationProject\\DotNetPostgreSQL_TestIntegrationProject.csproj|solutionrelative:dotnetpostgresql_testintegrationproject\\models\\mech.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2751E5C9-B606-4181-9698-2DBEB134577C}|DotNetPostgreSQL_TestIntegrationProject\\DotNetPostgreSQL_TestIntegrationProject.csproj|c:\\users\\jon\\onedrive\\desktop\\biztechworkspace\\dotnetpostgresql_testintegrationproject\\dotnetpostgresql_testintegrationproject\\models\\mechwarrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2751E5C9-B606-4181-9698-2DBEB134577C}|DotNetPostgreSQL_TestIntegrationProject\\DotNetPostgreSQL_TestIntegrationProject.csproj|solutionrelative:dotnetpostgresql_testintegrationproject\\models\\mechwarrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2751E5C9-B606-4181-9698-2DBEB134577C}|DotNetPostgreSQL_TestIntegrationProject\\DotNetPostgreSQL_TestIntegrationProject.csproj|c:\\users\\jon\\onedrive\\desktop\\biztechworkspace\\dotnetpostgresql_testintegrationproject\\dotnetpostgresql_testintegrationproject\\controllers\\rankscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2751E5C9-B606-4181-9698-2DBEB134577C}|DotNetPostgreSQL_TestIntegrationProject\\DotNetPostgreSQL_TestIntegrationProject.csproj|solutionrelative:dotnetpostgresql_testintegrationproject\\controllers\\rankscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2751E5C9-B606-4181-9698-2DBEB134577C}|DotNetPostgreSQL_TestIntegrationProject\\DotNetPostgreSQL_TestIntegrationProject.csproj|c:\\users\\jon\\onedrive\\desktop\\biztechworkspace\\dotnetpostgresql_testintegrationproject\\dotnetpostgresql_testintegrationproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2751E5C9-B606-4181-9698-2DBEB134577C}|DotNetPostgreSQL_TestIntegrationProject\\DotNetPostgreSQL_TestIntegrationProject.csproj|solutionrelative:dotnetpostgresql_testintegrationproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2751E5C9-B606-4181-9698-2DBEB134577C}|DotNetPostgreSQL_TestIntegrationProject\\DotNetPostgreSQL_TestIntegrationProject.csproj|c:\\users\\jon\\onedrive\\desktop\\biztechworkspace\\dotnetpostgresql_testintegrationproject\\dotnetpostgresql_testintegrationproject\\models\\rank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2751E5C9-B606-4181-9698-2DBEB134577C}|DotNetPostgreSQL_TestIntegrationProject\\DotNetPostgreSQL_TestIntegrationProject.csproj|solutionrelative:dotnetpostgresql_testintegrationproject\\models\\rank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2751E5C9-B606-4181-9698-2DBEB134577C}|DotNetPostgreSQL_TestIntegrationProject\\DotNetPostgreSQL_TestIntegrationProject.csproj|c:\\users\\jon\\onedrive\\desktop\\biztechworkspace\\dotnetpostgresql_testintegrationproject\\dotnetpostgresql_testintegrationproject\\models\\experiencelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2751E5C9-B606-4181-9698-2DBEB134577C}|DotNetPostgreSQL_TestIntegrationProject\\DotNetPostgreSQL_TestIntegrationProject.csproj|solutionrelative:dotnetpostgresql_testintegrationproject\\models\\experiencelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2751E5C9-B606-4181-9698-2DBEB134577C}|DotNetPostgreSQL_TestIntegrationProject\\DotNetPostgreSQL_TestIntegrationProject.csproj|c:\\users\\jon\\onedrive\\desktop\\biztechworkspace\\dotnetpostgresql_testintegrationproject\\dotnetpostgresql_testintegrationproject\\controllers\\mechscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2751E5C9-B606-4181-9698-2DBEB134577C}|DotNetPostgreSQL_TestIntegrationProject\\DotNetPostgreSQL_TestIntegrationProject.csproj|solutionrelative:dotnetpostgresql_testintegrationproject\\controllers\\mechscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,32 +39,8 @@
       "RelativeMoniker": "D:0:0:{2751E5C9-B606-4181-9698-2DBEB134577C}|DotNetPostgreSQL_TestIntegrationProject\\DotNetPostgreSQL_TestIntegrationProject.csproj|solutionrelative:dotnetpostgresql_testintegrationproject\\controllers\\experiencelevelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2751E5C9-B606-4181-9698-2DBEB134577C}|DotNetPostgreSQL_TestIntegrationProject\\DotNetPostgreSQL_TestIntegrationProject.csproj|c:\\users\\jon\\onedrive\\desktop\\biztechworkspace\\dotnetpostgresql_testintegrationproject\\dotnetpostgresql_testintegrationproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2751E5C9-B606-4181-9698-2DBEB134577C}|DotNetPostgreSQL_TestIntegrationProject\\DotNetPostgreSQL_TestIntegrationProject.csproj|solutionrelative:dotnetpostgresql_testintegrationproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2751E5C9-B606-4181-9698-2DBEB134577C}|DotNetPostgreSQL_TestIntegrationProject\\DotNetPostgreSQL_TestIntegrationProject.csproj|c:\\users\\jon\\onedrive\\desktop\\biztechworkspace\\dotnetpostgresql_testintegrationproject\\dotnetpostgresql_testintegrationproject\\models\\mech.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2751E5C9-B606-4181-9698-2DBEB134577C}|DotNetPostgreSQL_TestIntegrationProject\\DotNetPostgreSQL_TestIntegrationProject.csproj|solutionrelative:dotnetpostgresql_testintegrationproject\\models\\mech.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2751E5C9-B606-4181-9698-2DBEB134577C}|DotNetPostgreSQL_TestIntegrationProject\\DotNetPostgreSQL_TestIntegrationProject.csproj|c:\\users\\jon\\onedrive\\desktop\\biztechworkspace\\dotnetpostgresql_testintegrationproject\\dotnetpostgresql_testintegrationproject\\models\\mechwarrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2751E5C9-B606-4181-9698-2DBEB134577C}|DotNetPostgreSQL_TestIntegrationProject\\DotNetPostgreSQL_TestIntegrationProject.csproj|solutionrelative:dotnetpostgresql_testintegrationproject\\models\\mechwarrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2751E5C9-B606-4181-9698-2DBEB134577C}|DotNetPostgreSQL_TestIntegrationProject\\DotNetPostgreSQL_TestIntegrationProject.csproj|c:\\users\\jon\\onedrive\\desktop\\biztechworkspace\\dotnetpostgresql_testintegrationproject\\dotnetpostgresql_testintegrationproject\\models\\experiencelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2751E5C9-B606-4181-9698-2DBEB134577C}|DotNetPostgreSQL_TestIntegrationProject\\DotNetPostgreSQL_TestIntegrationProject.csproj|solutionrelative:dotnetpostgresql_testintegrationproject\\models\\experiencelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2751E5C9-B606-4181-9698-2DBEB134577C}|DotNetPostgreSQL_TestIntegrationProject\\DotNetPostgreSQL_TestIntegrationProject.csproj|c:\\users\\jon\\onedrive\\desktop\\biztechworkspace\\dotnetpostgresql_testintegrationproject\\dotnetpostgresql_testintegrationproject\\controllers\\rankscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2751E5C9-B606-4181-9698-2DBEB134577C}|DotNetPostgreSQL_TestIntegrationProject\\DotNetPostgreSQL_TestIntegrationProject.csproj|solutionrelative:dotnetpostgresql_testintegrationproject\\controllers\\rankscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2751E5C9-B606-4181-9698-2DBEB134577C}|DotNetPostgreSQL_TestIntegrationProject\\DotNetPostgreSQL_TestIntegrationProject.csproj|c:\\users\\jon\\onedrive\\desktop\\biztechworkspace\\dotnetpostgresql_testintegrationproject\\dotnetpostgresql_testintegrationproject\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2751E5C9-B606-4181-9698-2DBEB134577C}|DotNetPostgreSQL_TestIntegrationProject\\DotNetPostgreSQL_TestIntegrationProject.csproj|solutionrelative:dotnetpostgresql_testintegrationproject\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2751E5C9-B606-4181-9698-2DBEB134577C}|DotNetPostgreSQL_TestIntegrationProject\\DotNetPostgreSQL_TestIntegrationProject.csproj|c:\\users\\jon\\onedrive\\desktop\\biztechworkspace\\dotnetpostgresql_testintegrationproject\\dotnetpostgresql_testintegrationproject\\models\\rank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2751E5C9-B606-4181-9698-2DBEB134577C}|DotNetPostgreSQL_TestIntegrationProject\\DotNetPostgreSQL_TestIntegrationProject.csproj|solutionrelative:dotnetpostgresql_testintegrationproject\\models\\rank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2751E5C9-B606-4181-9698-2DBEB134577C}|DotNetPostgreSQL_TestIntegrationProject\\DotNetPostgreSQL_TestIntegrationProject.csproj|c:\\users\\jon\\onedrive\\desktop\\biztechworkspace\\dotnetpostgresql_testintegrationproject\\dotnetpostgresql_testintegrationproject\\migrations\\20250625205550_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,24 +54,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jon\\OneDrive\\Desktop\\bizTechWorkspace\\DotNetPostgreSQL_TestIntegrationProject\\DotNetPostgreSQL_TestIntegrationProject\\Program.cs",
+              "RelativeDocumentMoniker": "DotNetPostgreSQL_TestIntegrationProject\\Program.cs",
+              "ToolTip": "C:\\Users\\Jon\\OneDrive\\Desktop\\bizTechWorkspace\\DotNetPostgreSQL_TestIntegrationProject\\DotNetPostgreSQL_TestIntegrationProject\\Program.cs",
+              "RelativeToolTip": "DotNetPostgreSQL_TestIntegrationProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T20:25:14.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RanksController.cs",
+              "DocumentMoniker": "C:\\Users\\Jon\\OneDrive\\Desktop\\bizTechWorkspace\\DotNetPostgreSQL_TestIntegrationProject\\DotNetPostgreSQL_TestIntegrationProject\\Controllers\\RanksController.cs",
+              "RelativeDocumentMoniker": "DotNetPostgreSQL_TestIntegrationProject\\Controllers\\RanksController.cs",
+              "ToolTip": "C:\\Users\\Jon\\OneDrive\\Desktop\\bizTechWorkspace\\DotNetPostgreSQL_TestIntegrationProject\\DotNetPostgreSQL_TestIntegrationProject\\Controllers\\RanksController.cs",
+              "RelativeToolTip": "DotNetPostgreSQL_TestIntegrationProject\\Controllers\\RanksController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAA9wFwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T21:09:49.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mechwarrior.cs",
+              "DocumentMoniker": "C:\\Users\\Jon\\OneDrive\\Desktop\\bizTechWorkspace\\DotNetPostgreSQL_TestIntegrationProject\\DotNetPostgreSQL_TestIntegrationProject\\Models\\Mechwarrior.cs",
+              "RelativeDocumentMoniker": "DotNetPostgreSQL_TestIntegrationProject\\Models\\Mechwarrior.cs",
+              "ToolTip": "C:\\Users\\Jon\\OneDrive\\Desktop\\bizTechWorkspace\\DotNetPostgreSQL_TestIntegrationProject\\DotNetPostgreSQL_TestIntegrationProject\\Models\\Mechwarrior.cs",
+              "RelativeToolTip": "DotNetPostgreSQL_TestIntegrationProject\\Models\\Mechwarrior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T17:43:44.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Mech.cs",
+              "DocumentMoniker": "C:\\Users\\Jon\\OneDrive\\Desktop\\bizTechWorkspace\\DotNetPostgreSQL_TestIntegrationProject\\DotNetPostgreSQL_TestIntegrationProject\\Models\\Mech.cs",
+              "RelativeDocumentMoniker": "DotNetPostgreSQL_TestIntegrationProject\\Models\\Mech.cs",
+              "ToolTip": "C:\\Users\\Jon\\OneDrive\\Desktop\\bizTechWorkspace\\DotNetPostgreSQL_TestIntegrationProject\\DotNetPostgreSQL_TestIntegrationProject\\Models\\Mech.cs",
+              "RelativeToolTip": "DotNetPostgreSQL_TestIntegrationProject\\Models\\Mech.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T17:49:26.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Rank.cs",
+              "DocumentMoniker": "C:\\Users\\Jon\\OneDrive\\Desktop\\bizTechWorkspace\\DotNetPostgreSQL_TestIntegrationProject\\DotNetPostgreSQL_TestIntegrationProject\\Models\\Rank.cs",
+              "RelativeDocumentMoniker": "DotNetPostgreSQL_TestIntegrationProject\\Models\\Rank.cs",
+              "ToolTip": "C:\\Users\\Jon\\OneDrive\\Desktop\\bizTechWorkspace\\DotNetPostgreSQL_TestIntegrationProject\\DotNetPostgreSQL_TestIntegrationProject\\Models\\Rank.cs",
+              "RelativeToolTip": "DotNetPostgreSQL_TestIntegrationProject\\Models\\Rank.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T17:49:09.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExperienceLevel.cs",
+              "DocumentMoniker": "C:\\Users\\Jon\\OneDrive\\Desktop\\bizTechWorkspace\\DotNetPostgreSQL_TestIntegrationProject\\DotNetPostgreSQL_TestIntegrationProject\\Models\\ExperienceLevel.cs",
+              "RelativeDocumentMoniker": "DotNetPostgreSQL_TestIntegrationProject\\Models\\ExperienceLevel.cs",
+              "ToolTip": "C:\\Users\\Jon\\OneDrive\\Desktop\\bizTechWorkspace\\DotNetPostgreSQL_TestIntegrationProject\\DotNetPostgreSQL_TestIntegrationProject\\Models\\ExperienceLevel.cs",
+              "RelativeToolTip": "DotNetPostgreSQL_TestIntegrationProject\\Models\\ExperienceLevel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T17:49:19.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "MechsController.cs",
               "DocumentMoniker": "C:\\Users\\Jon\\OneDrive\\Desktop\\bizTechWorkspace\\DotNetPostgreSQL_TestIntegrationProject\\DotNetPostgreSQL_TestIntegrationProject\\Controllers\\MechsController.cs",
               "RelativeDocumentMoniker": "DotNetPostgreSQL_TestIntegrationProject\\Controllers\\MechsController.cs",
               "ToolTip": "C:\\Users\\Jon\\OneDrive\\Desktop\\bizTechWorkspace\\DotNetPostgreSQL_TestIntegrationProject\\DotNetPostgreSQL_TestIntegrationProject\\Controllers\\MechsController.cs",
               "RelativeToolTip": "DotNetPostgreSQL_TestIntegrationProject\\Controllers\\MechsController.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAQwCgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-25T21:07:58.52Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Jon\\OneDrive\\Desktop\\bizTechWorkspace\\DotNetPostgreSQL_TestIntegrationProject\\DotNetPostgreSQL_TestIntegrationProject\\Models\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "DotNetPostgreSQL_TestIntegrationProject\\Models\\ApplicationDbContext.cs",
@@ -83,79 +161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Jon\\OneDrive\\Desktop\\bizTechWorkspace\\DotNetPostgreSQL_TestIntegrationProject\\DotNetPostgreSQL_TestIntegrationProject\\Program.cs",
-              "RelativeDocumentMoniker": "DotNetPostgreSQL_TestIntegrationProject\\Program.cs",
-              "ToolTip": "C:\\Users\\Jon\\OneDrive\\Desktop\\bizTechWorkspace\\DotNetPostgreSQL_TestIntegrationProject\\DotNetPostgreSQL_TestIntegrationProject\\Program.cs",
-              "RelativeToolTip": "DotNetPostgreSQL_TestIntegrationProject\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T20:25:14.652Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Mech.cs",
-              "DocumentMoniker": "C:\\Users\\Jon\\OneDrive\\Desktop\\bizTechWorkspace\\DotNetPostgreSQL_TestIntegrationProject\\DotNetPostgreSQL_TestIntegrationProject\\Models\\Mech.cs",
-              "RelativeDocumentMoniker": "DotNetPostgreSQL_TestIntegrationProject\\Models\\Mech.cs",
-              "ToolTip": "C:\\Users\\Jon\\OneDrive\\Desktop\\bizTechWorkspace\\DotNetPostgreSQL_TestIntegrationProject\\DotNetPostgreSQL_TestIntegrationProject\\Models\\Mech.cs",
-              "RelativeToolTip": "DotNetPostgreSQL_TestIntegrationProject\\Models\\Mech.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T17:49:26.356Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Rank.cs",
-              "DocumentMoniker": "C:\\Users\\Jon\\OneDrive\\Desktop\\bizTechWorkspace\\DotNetPostgreSQL_TestIntegrationProject\\DotNetPostgreSQL_TestIntegrationProject\\Models\\Rank.cs",
-              "RelativeDocumentMoniker": "DotNetPostgreSQL_TestIntegrationProject\\Models\\Rank.cs",
-              "ToolTip": "C:\\Users\\Jon\\OneDrive\\Desktop\\bizTechWorkspace\\DotNetPostgreSQL_TestIntegrationProject\\DotNetPostgreSQL_TestIntegrationProject\\Models\\Rank.cs",
-              "RelativeToolTip": "DotNetPostgreSQL_TestIntegrationProject\\Models\\Rank.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T17:49:09.563Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ExperienceLevel.cs",
-              "DocumentMoniker": "C:\\Users\\Jon\\OneDrive\\Desktop\\bizTechWorkspace\\DotNetPostgreSQL_TestIntegrationProject\\DotNetPostgreSQL_TestIntegrationProject\\Models\\ExperienceLevel.cs",
-              "RelativeDocumentMoniker": "DotNetPostgreSQL_TestIntegrationProject\\Models\\ExperienceLevel.cs",
-              "ToolTip": "C:\\Users\\Jon\\OneDrive\\Desktop\\bizTechWorkspace\\DotNetPostgreSQL_TestIntegrationProject\\DotNetPostgreSQL_TestIntegrationProject\\Models\\ExperienceLevel.cs",
-              "RelativeToolTip": "DotNetPostgreSQL_TestIntegrationProject\\Models\\ExperienceLevel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T17:49:19.754Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Mechwarrior.cs",
-              "DocumentMoniker": "C:\\Users\\Jon\\OneDrive\\Desktop\\bizTechWorkspace\\DotNetPostgreSQL_TestIntegrationProject\\DotNetPostgreSQL_TestIntegrationProject\\Models\\Mechwarrior.cs",
-              "RelativeDocumentMoniker": "DotNetPostgreSQL_TestIntegrationProject\\Models\\Mechwarrior.cs",
-              "ToolTip": "C:\\Users\\Jon\\OneDrive\\Desktop\\bizTechWorkspace\\DotNetPostgreSQL_TestIntegrationProject\\DotNetPostgreSQL_TestIntegrationProject\\Models\\Mechwarrior.cs",
-              "RelativeToolTip": "DotNetPostgreSQL_TestIntegrationProject\\Models\\Mechwarrior.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T17:43:44.931Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "RanksController.cs",
-              "DocumentMoniker": "C:\\Users\\Jon\\OneDrive\\Desktop\\bizTechWorkspace\\DotNetPostgreSQL_TestIntegrationProject\\DotNetPostgreSQL_TestIntegrationProject\\Controllers\\RanksController.cs",
-              "RelativeDocumentMoniker": "DotNetPostgreSQL_TestIntegrationProject\\Controllers\\RanksController.cs",
-              "ToolTip": "C:\\Users\\Jon\\OneDrive\\Desktop\\bizTechWorkspace\\DotNetPostgreSQL_TestIntegrationProject\\DotNetPostgreSQL_TestIntegrationProject\\Controllers\\RanksController.cs",
-              "RelativeToolTip": "DotNetPostgreSQL_TestIntegrationProject\\Controllers\\RanksController.cs",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAwwFIAAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T21:09:49.881Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "MechwarriorsController.cs",
               "DocumentMoniker": "C:\\Users\\Jon\\OneDrive\\Desktop\\bizTechWorkspace\\DotNetPostgreSQL_TestIntegrationProject\\DotNetPostgreSQL_TestIntegrationProject\\Controllers\\MechwarriorsController.cs",
               "RelativeDocumentMoniker": "DotNetPostgreSQL_TestIntegrationProject\\Controllers\\MechwarriorsController.cs",
@@ -163,12 +169,11 @@
               "RelativeToolTip": "DotNetPostgreSQL_TestIntegrationProject\\Controllers\\MechwarriorsController.cs",
               "ViewState": "AgIAADsAAAAAAAAAAAAIwBYAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T21:09:21.396Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-25T21:09:21.396Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "ExperienceLevelsController.cs",
               "DocumentMoniker": "C:\\Users\\Jon\\OneDrive\\Desktop\\bizTechWorkspace\\DotNetPostgreSQL_TestIntegrationProject\\DotNetPostgreSQL_TestIntegrationProject\\Controllers\\ExperienceLevelsController.cs",
               "RelativeDocumentMoniker": "DotNetPostgreSQL_TestIntegrationProject\\Controllers\\ExperienceLevelsController.cs",
@@ -176,8 +181,7 @@
               "RelativeToolTip": "DotNetPostgreSQL_TestIntegrationProject\\Controllers\\ExperienceLevelsController.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T21:04:22.318Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-25T21:04:22.318Z"
             },
             {
               "$type": "Document",

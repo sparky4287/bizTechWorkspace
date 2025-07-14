@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jon\\OneDrive\\Desktop\\bizTechWorkspace\\InventorySolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD036EC0-5C36-4931-AA6D-EB5A1EAE46A9}|InventoryApi\\InventoryApi.csproj|c:\\users\\jon\\onedrive\\desktop\\biztechworkspace\\inventorysolution\\inventoryapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CD036EC0-5C36-4931-AA6D-EB5A1EAE46A9}|InventoryApi\\InventoryApi.csproj|solutionrelative:inventoryapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD036EC0-5C36-4931-AA6D-EB5A1EAE46A9}|InventoryApi\\InventoryApi.csproj|c:\\users\\jon\\onedrive\\desktop\\biztechworkspace\\inventorysolution\\inventoryapi\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD036EC0-5C36-4931-AA6D-EB5A1EAE46A9}|InventoryApi\\InventoryApi.csproj|solutionrelative:inventoryapi\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD036EC0-5C36-4931-AA6D-EB5A1EAE46A9}|InventoryApi\\InventoryApi.csproj|c:\\users\\jon\\onedrive\\desktop\\biztechworkspace\\inventorysolution\\inventoryapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD036EC0-5C36-4931-AA6D-EB5A1EAE46A9}|InventoryApi\\InventoryApi.csproj|solutionrelative:inventoryapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD036EC0-5C36-4931-AA6D-EB5A1EAE46A9}|InventoryApi\\InventoryApi.csproj|c:\\users\\jon\\onedrive\\desktop\\biztechworkspace\\inventorysolution\\inventoryapi\\migrations\\20250711235422_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD036EC0-5C36-4931-AA6D-EB5A1EAE46A9}|InventoryApi\\InventoryApi.csproj|solutionrelative:inventoryapi\\migrations\\20250711235422_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD036EC0-5C36-4931-AA6D-EB5A1EAE46A9}|InventoryApi\\InventoryApi.csproj|c:\\users\\jon\\onedrive\\desktop\\biztechworkspace\\inventorysolution\\inventoryapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD036EC0-5C36-4931-AA6D-EB5A1EAE46A9}|InventoryApi\\InventoryApi.csproj|solutionrelative:inventoryapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76CA44A-CD85-430E-ABB7-DAEFF36B9382}|InventoryShared\\InventoryShared.csproj|c:\\users\\jon\\onedrive\\desktop\\biztechworkspace\\inventorysolution\\inventoryshared\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76CA44A-CD85-430E-ABB7-DAEFF36B9382}|InventoryShared\\InventoryShared.csproj|solutionrelative:inventoryshared\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76CA44A-CD85-430E-ABB7-DAEFF36B9382}|InventoryShared\\InventoryShared.csproj|c:\\users\\jon\\onedrive\\desktop\\biztechworkspace\\inventorysolution\\inventoryshared\\models\\inventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76CA44A-CD85-430E-ABB7-DAEFF36B9382}|InventoryShared\\InventoryShared.csproj|solutionrelative:inventoryshared\\models\\inventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76CA44A-CD85-430E-ABB7-DAEFF36B9382}|InventoryShared\\InventoryShared.csproj|c:\\users\\jon\\onedrive\\desktop\\biztechworkspace\\inventorysolution\\inventoryshared\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76CA44A-CD85-430E-ABB7-DAEFF36B9382}|InventoryShared\\InventoryShared.csproj|solutionrelative:inventoryshared\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE308483-4D28-4D44-9F8C-C45966F1BD90}|InventoryClient\\InventoryClient.csproj|c:\\users\\jon\\onedrive\\desktop\\biztechworkspace\\inventorysolution\\inventoryclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE308483-4D28-4D44-9F8C-C45966F1BD90}|InventoryClient\\InventoryClient.csproj|solutionrelative:inventoryclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Jon\\OneDrive\\Desktop\\bizTechWorkspace\\InventorySolution\\InventoryApi\\appsettings.json",
+              "RelativeDocumentMoniker": "InventoryApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Jon\\OneDrive\\Desktop\\bizTechWorkspace\\InventorySolution\\InventoryApi\\appsettings.json",
+              "RelativeToolTip": "InventoryApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-12T20:56:35.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jon\\OneDrive\\Desktop\\bizTechWorkspace\\InventorySolution\\InventoryApi\\Program.cs",
+              "RelativeDocumentMoniker": "InventoryApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Jon\\OneDrive\\Desktop\\bizTechWorkspace\\InventorySolution\\InventoryApi\\Program.cs",
+              "RelativeToolTip": "InventoryApi\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwCcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T23:59:07.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DbSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\Jon\\OneDrive\\Desktop\\bizTechWorkspace\\InventorySolution\\InventoryApi\\Data\\DbSeeder.cs",
+              "RelativeDocumentMoniker": "InventoryApi\\Data\\DbSeeder.cs",
+              "ToolTip": "C:\\Users\\Jon\\OneDrive\\Desktop\\bizTechWorkspace\\InventorySolution\\InventoryApi\\Data\\DbSeeder.cs",
+              "RelativeToolTip": "InventoryApi\\Data\\DbSeeder.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T23:58:21.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InventoryItem.cs",
+              "DocumentMoniker": "C:\\Users\\Jon\\OneDrive\\Desktop\\bizTechWorkspace\\InventorySolution\\InventoryShared\\Models\\InventoryItem.cs",
+              "RelativeDocumentMoniker": "InventoryShared\\Models\\InventoryItem.cs",
+              "ToolTip": "C:\\Users\\Jon\\OneDrive\\Desktop\\bizTechWorkspace\\InventorySolution\\InventoryShared\\Models\\InventoryItem.cs",
+              "RelativeToolTip": "InventoryShared\\Models\\InventoryItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T23:56:08.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250711235422_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Jon\\OneDrive\\Desktop\\bizTechWorkspace\\InventorySolution\\InventoryApi\\Migrations\\20250711235422_InitialCreate.cs",
+              "RelativeDocumentMoniker": "InventoryApi\\Migrations\\20250711235422_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Jon\\OneDrive\\Desktop\\bizTechWorkspace\\InventorySolution\\InventoryApi\\Migrations\\20250711235422_InitialCreate.cs",
+              "RelativeToolTip": "InventoryApi\\Migrations\\20250711235422_InitialCreate.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAewNMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T23:54:22.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Jon\\OneDrive\\Desktop\\bizTechWorkspace\\InventorySolution\\InventoryApi\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "InventoryApi\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Jon\\OneDrive\\Desktop\\bizTechWorkspace\\InventorySolution\\InventoryApi\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "InventoryApi\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T23:16:18.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\Jon\\OneDrive\\Desktop\\bizTechWorkspace\\InventorySolution\\InventoryShared\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "InventoryShared\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\Jon\\OneDrive\\Desktop\\bizTechWorkspace\\InventorySolution\\InventoryShared\\Models\\OrderItem.cs",
+              "RelativeToolTip": "InventoryShared\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T20:54:16.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Jon\\OneDrive\\Desktop\\bizTechWorkspace\\InventorySolution\\InventoryShared\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "InventoryShared\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Jon\\OneDrive\\Desktop\\bizTechWorkspace\\InventorySolution\\InventoryShared\\Models\\Order.cs",
+              "RelativeToolTip": "InventoryShared\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T20:53:57.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jon\\OneDrive\\Desktop\\bizTechWorkspace\\InventorySolution\\InventoryClient\\Program.cs",
+              "RelativeDocumentMoniker": "InventoryClient\\Program.cs",
+              "ToolTip": "C:\\Users\\Jon\\OneDrive\\Desktop\\bizTechWorkspace\\InventorySolution\\InventoryClient\\Program.cs",
+              "RelativeToolTip": "InventoryClient\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T20:48:19.962Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

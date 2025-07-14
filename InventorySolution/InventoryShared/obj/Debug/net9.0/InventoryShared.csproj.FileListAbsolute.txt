@@ -1,0 +1,13 @@
+C:\Users\Jon\OneDrive\Desktop\bizTechWorkspace\InventorySolution\InventoryShared\bin\Debug\net9.0\InventoryShared.deps.json
+C:\Users\Jon\OneDrive\Desktop\bizTechWorkspace\InventorySolution\InventoryShared\bin\Debug\net9.0\InventoryShared.dll
+C:\Users\Jon\OneDrive\Desktop\bizTechWorkspace\InventorySolution\InventoryShared\bin\Debug\net9.0\InventoryShared.pdb
+C:\Users\Jon\OneDrive\Desktop\bizTechWorkspace\InventorySolution\InventoryShared\obj\Debug\net9.0\InventoryShared.csproj.AssemblyReference.cache
+C:\Users\Jon\OneDrive\Desktop\bizTechWorkspace\InventorySolution\InventoryShared\obj\Debug\net9.0\InventoryShared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jon\OneDrive\Desktop\bizTechWorkspace\InventorySolution\InventoryShared\obj\Debug\net9.0\InventoryShared.AssemblyInfoInputs.cache
+C:\Users\Jon\OneDrive\Desktop\bizTechWorkspace\InventorySolution\InventoryShared\obj\Debug\net9.0\InventoryShared.AssemblyInfo.cs
+C:\Users\Jon\OneDrive\Desktop\bizTechWorkspace\InventorySolution\InventoryShared\obj\Debug\net9.0\InventoryShared.csproj.CoreCompileInputs.cache
+C:\Users\Jon\OneDrive\Desktop\bizTechWorkspace\InventorySolution\InventoryShared\obj\Debug\net9.0\InventoryShared.sourcelink.json
+C:\Users\Jon\OneDrive\Desktop\bizTechWorkspace\InventorySolution\InventoryShared\obj\Debug\net9.0\InventoryShared.dll
+C:\Users\Jon\OneDrive\Desktop\bizTechWorkspace\InventorySolution\InventoryShared\obj\Debug\net9.0\refint\InventoryShared.dll
+C:\Users\Jon\OneDrive\Desktop\bizTechWorkspace\InventorySolution\InventoryShared\obj\Debug\net9.0\InventoryShared.pdb
+C:\Users\Jon\OneDrive\Desktop\bizTechWorkspace\InventorySolution\InventoryShared\obj\Debug\net9.0\ref\InventoryShared.dll

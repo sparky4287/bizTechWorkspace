@@ -1,0 +1,28 @@
+﻿@page "/sales-chart"
+
+<h3>Inventory Sales Chart</h3>
+
+<BarChart @ref="barChart" TItem="int" />
+
+@code {
+    private BarChart<int>? barChart;
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender && barChart is not null)
+        {
+            var data = new BarChartDataset<int>
+            {
+                Label = "Units Sold",
+                Data = new List<int> { 10, 20, 30, 15, 25 },
+                BackgroundColor = new List<string>
+                {
+                    ChartColor.FromRgba(54, 162, 235, 0.2f),
+                    ChartColor.FromRgba(255, 99, 132, 0.2f)
+                }
+            };
+
+            await barChart.AddLabelsDatasetsAndUpdate(new[] { "Widget A", "Widget B", "Gadget Pro", "Gizmo X", "Other" }, data);
+        }
+    }
+}

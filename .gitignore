@@ -2,3 +2,5 @@ node_modules/
 InventorySolution\InventoryApi\appsettings.json
 DotNetPostgreSQL_TestIntegrationProject\DotNetPostgreSQL_TestIntegrationProject\appsettings.json
 FastAPIPostgreSQL_TestIntegrationProject\database.py
+bin
+obj
